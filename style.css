@@ -1,0 +1,130 @@
+body {
+    padding: 1%;
+    margin: 1%;
+}
+.mynav {
+    background-color: rgba(36, 36, 143, 0.808);
+    height: 100px;
+    position: sticky;
+    width: 100%;
+    line-height: 20px;
+}
+.mynav ul {
+    list-style: none;
+    padding: 3%;
+    margin: 0;
+    
+}
+.mynav li {
+    display: inline;
+    padding: 85px;
+    font-family: 'Roboto', sans-serif;
+    
+    
+}
+.mynav li a {
+    text-decoration: none;
+    color: wheat;
+}
+.myimage {
+    width: 100%;
+}
+.myabout {
+    background-color: rgba(36, 36, 143, 0.808);
+}
+.myabout h2 {
+    color: wheat;
+    padding: 1%;
+}
+.myabout p {
+    color: wheat;
+    padding: 1%;
+}
+.myabout form {
+    padding: 1%;
+}
+#bn:hover {
+    color: red;
+}
+#bn {
+    background-color: aqua;
+    border: 100%;
+    border-color: brown;
+    border-radius: 15%; 
+}
+.mywork {
+    background-color: rgba(36, 36, 143, 0.808);
+}
+.mywork h2 {
+    color: wheat;
+    padding: 1%;
+}
+.mywork p {
+    color: wheat;
+    padding: 1%;
+} 
+.mywork form {
+    color: wheat;
+    padding: 1%;}
+    
+    .myvideo h3 {
+        color: rgba(199, 139, 28, 0.774);
+        padding: 1%;
+    }
+    .myvideo iframe {
+        width: 100%;
+        height: 420px;
+    }
+
+
+.myresume {
+    background-color: rgba(36, 36, 143, 0.808);
+}
+.myresume h2 {
+    color: wheat;
+    padding: 1%;
+}
+.myresume ul {
+    color: wheat;
+}
+.mycontact h3 {
+    background-color: rgba(36, 36, 143, 0.808);
+    width: 20%;
+    padding: 1%;
+    color: wheat;
+    
+}
+#bn2 {
+    background-color: aqua;
+    border: 100%;
+    border-color: brown;
+    border-radius: 15%; 
+}
+#bn2 {
+    font-size: 20px;
+}
+#bn2:hover {
+    color: red;
+}
+.myfooter {
+    background-color: bisque;
+    margin: 0%;
+    padding: 0px;
+}
+.myfooter p {
+    color: rgba(36, 36, 143, 0.808);
+    padding: 1%;
+    line-height: 20px;
+}
+.myfooter3 {
+    text-align: center;
+    text-decoration: none;
+    font-weight: bolder;
+}
+.myfooter a {
+    padding: 1%;
+    color: rgba(36, 36, 143, 0.808);
+}
+.myfooter a:hover {
+    color: green;
+}
